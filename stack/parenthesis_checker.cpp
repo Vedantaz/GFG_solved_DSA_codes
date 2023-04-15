@@ -5,7 +5,7 @@
 // just remember : in this type of problem : always empheasize every possibility of one condition 
 // like if it is false : then give their all porssible conditions 
 // else it is true 
-// or vice versa
+// or vice versa 
 bool isPar(string x)
     {
         // Your code here
