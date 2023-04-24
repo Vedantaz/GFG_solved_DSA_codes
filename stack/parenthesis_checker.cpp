@@ -25,8 +25,6 @@ bool isPar(string x)
                     else if(x[i] == '}' && ch != '{') return false;
                     s.pop();
                     
-                    
-                    
                 }
                 
         }
