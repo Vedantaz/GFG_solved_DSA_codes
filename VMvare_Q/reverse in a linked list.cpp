@@ -16,8 +16,6 @@ lass Solution
             prev = curr;
             curr = nxt;
             
-
-            
         }
         head = prev;
         
