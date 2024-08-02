@@ -34,3 +34,4 @@ for(Node* curr = head; curr!= NULL; curr = curr->next){
     cout<< "Node value "<<  curr -> data << endl ; 
 
 }
+   
