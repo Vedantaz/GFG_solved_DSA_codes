@@ -23,6 +23,7 @@ lass Solution
     }
     
 };
+<<<<<<< HEAD
    
 
 // we use curr as new node of head {actual node}
@@ -34,3 +35,6 @@ for(Node* curr = head; curr!= NULL; curr = curr->next){
     cout<< "Node value "<<  curr -> data << endl ; 
 
 }
+=======
+   
+>>>>>>> fc687de48ecb85f65afcd96cf30837de80cabf9a
